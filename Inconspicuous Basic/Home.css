@@ -121,4 +121,9 @@
   font-style: normal;
   font-weight: 400;
   src: url(fonts/KOMTITT_.ttf);
+}@font-face {
+  font-family: 'KOMTIT__';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/KOMTIT__.ttf);
 }
