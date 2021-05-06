@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 100vh;
+  min-height: 707px;
 }
 
 .u-section-1 .u-text-1 {
@@ -12,9 +12,9 @@
   width: 861px;
   letter-spacing: 4px;
   text-transform: uppercase;
-  font-family: KOMTITA_;
+  font-family: KOMTITW_;
   font-weight: 400;
-  margin: 60px auto 0;
+  margin: 240px auto 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -107,10 +107,10 @@
     width: 340px;
   }
 }@font-face {
-  font-family: 'KOMTITA_';
+  font-family: 'KOMTITW_';
   font-style: normal;
   font-weight: 400;
-  src: url(fonts/KOMTITA_.ttf);
+  src: url(fonts/KOMTITW_.ttf);
 }@font-face {
   font-family: 'AlegreSans-Regular';
   font-style: normal;
